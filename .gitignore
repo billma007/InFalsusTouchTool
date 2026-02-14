@@ -1,0 +1,6 @@
+android/jdk-17/
+.DS_Store
+*.ipynb_checkpoints
+build/
+*.class
+*.apk

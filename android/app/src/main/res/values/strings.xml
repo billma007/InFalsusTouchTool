@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">InfalsusTouch</string>
+    <string name="connect">连接</string>
+    <string name="ip_hint">192.168.x.x</string>
+    <string name="enter_ip">输入 PC IP 地址</string>
+    <string name="full_mapping_mode">全映射模式</string>
+    <string name="helper_title">In Falsus 助手</string>
+</resources>
